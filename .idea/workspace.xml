@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af3f91c1-6711-4652-b185-b551f3d256ba" name="Default Changelist" comment="" />
+    <list default="true" id="af3f91c1-6711-4652-b185-b551f3d256ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +155,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -173,6 +181,9 @@
       <workItem from="1605172026199" duration="22763000" />
       <workItem from="1605252730089" duration="15431000" />
       <workItem from="1605297122810" duration="1688000" />
+      <workItem from="1605341592534" duration="3246000" />
+      <workItem from="1605345252894" duration="687000" />
+      <workItem from="1605346071222" duration="3259000" />
     </task>
     <servers />
   </component>
@@ -180,14 +191,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1370" y="316" key="FileChooserDialogImpl" timestamp="1605345849144">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1370" y="316" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1605345849144" />
     <state x="498" y="461" key="NewPhpFileDialog" timestamp="1605183389769">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="498" y="461" key="NewPhpFileDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1605183389769" />
-    <state x="145" y="118" key="SettingsEditor" timestamp="1605269695993">
+    <state x="145" y="118" key="SettingsEditor" timestamp="1605345937519">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="145" y="118" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1605269695993" />
+    <state x="145" y="118" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1605345937519" />
     <state x="330" y="207" width="716" height="704" key="find.popup" timestamp="1605257920748">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>

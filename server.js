@@ -22,11 +22,15 @@ http.listen(3000, () => {
     console.log('listening on *:3000');
 });
 
+
 redis.subscribe('private-channel', function(){
     console.log('subscribed to private channel');
 });
 
+
 redis.on('message', function (channel, message){
+    console.log("Kanal:"+ channel);
+    console.log("Mesaj:"+ message);
     message = JSON.parse(message);
     if(channel === 'private-channel'){
         let data = message.data.data;
